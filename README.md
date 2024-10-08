@@ -4,3 +4,4 @@
 
 
 ![image](https://github.com/user-attachments/assets/cb9b8c87-266d-4571-93fc-3f911bb6dbbc)
+![erd](https://github.com/user-attachments/assets/56591322-3cc0-4a17-975c-4c18d0690b70)
